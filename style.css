@@ -5,11 +5,12 @@ body {
 header {
   font-size: 100px;
 } 
+
 section {
   background-color: #00FFFF;
 }
 
-li {
+section {
   border: 75px;
 }
 
